@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(45, 45, 185);
+}
+
+header{
+    background-color: yellow;
+    width: 105%;
+    height: 100px;
+}
+h1{
+    color: black;
+}
+h2{
+    color: rgb(15, 15, 63)s;
+}
+h3{
+    color: yellow;
+}
+
+img{
+    width: 600px;  
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 90px;
+    margin-right: 60px;
+    border-radius: 50%;
+    box-shadow: yellow 19px 17px 24px;       
+}

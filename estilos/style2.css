@@ -1,0 +1,30 @@
+body{
+    background-color: greenyellow;
+}
+
+header{
+    background-color: orange;
+    width: 105%;
+    height: 100px;
+}
+h1{
+    color: rgb(167, 19, 110);
+}
+h2{
+    color: rgb(5, 145, 5);
+}
+h3{
+    color: orangered;
+}
+
+img{
+    width: 600px;  
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 90px;
+    margin-right: 60px;
+    border-radius: 50%;
+    box-shadow: purple 19px 17px 24px;       
+}
+
